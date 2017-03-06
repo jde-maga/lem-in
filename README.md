@@ -15,4 +15,7 @@ Make the ants go from point A to point B by creating an optimized algorithm, und
 
 # Usage
 
-> ./lemin < <anthill file>
+> make
+> ./lemin < \<anthill file\>
+
+Anthill files are provided in the folder "exemples"
